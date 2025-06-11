@@ -21,6 +21,9 @@ const Navbar = () => {
                                         <li>
                                             <Link class="nav-link active" aria-current="page" to="/sub">Subtract</Link>
                                         </li>
+                                        <li>
+                                            <Link class="nav-link active" aria-current="page" to="/mult">Multiply</Link>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
